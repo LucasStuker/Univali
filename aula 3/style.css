@@ -1,0 +1,17 @@
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    list-style: none;
+}
+
+li{
+    border: 1px solid grey;
+    color: blue;
+}
+
+li:hover{
+    background-color: aqua;
+}
